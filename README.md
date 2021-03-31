@@ -1,4 +1,4 @@
-# Hi there, I'm Baptiste - [Bapt](https://github.com/Bapt5) 👋
+# Hi there, I'm Baptiste - [Bapt5](https://github.com/Bapt5) 👋
 ## I'm French 🇫🇷
 
 ## I am in high school📚 and Developper in my spare time💻
