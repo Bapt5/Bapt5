@@ -23,5 +23,5 @@
 
 ---
 
-<a href="https://github.com/Bapt5"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bapt5&show_icons=true&title_color=f0f&icon_color=ff0&text_color=9f9f9f&bg_color=151515" /></a><br/>
-<a href="https://github.com/Bapt5?tab=repositories"><img align="left" alt="Favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bapt5&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515"  /></a>
+<a href="https://github.com/Bapt5"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bapt5&layout=none&show_icons=true&title_color=f0f&icon_color=ff0&text_color=9f9f9f&bg_color=151515" /></a><br/>
+<a href="https://github.com/Bapt5?tab=repositories"><img align="left" alt="Favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bapt5&layout=none&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515"  /></a>
