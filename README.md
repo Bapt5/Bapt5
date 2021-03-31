@@ -1,7 +1,7 @@
 # Hi there, I'm Baptiste - [Bapt5](https://github.com/Bapt5) 👋
 ## I'm French 🇫🇷
 
-## I am in high school📚 and Developper in my spare time💻
+## I'm in high school📚 and Developper in my spare time💻
 - 👨‍💻 I’m currently working on `Python`!
 - 🔍 I’m currently learning `PHP`
 - 🌐 I'm currently developping the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01) and [tib500](https://github.com/tib500)
