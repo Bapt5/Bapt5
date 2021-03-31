@@ -1,5 +1,5 @@
 # Hi there, I'm Baptiste - [Bapt](https://github.com/Bapt5) 👋
-## I'm French <img align="left" alt="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" />
+## I'm French 🇫🇷
 
 ## I am in high school📚 and Developper in my spare time💻
 - 👨‍💻 I’m currently working on `Python`!
