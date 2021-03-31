@@ -7,15 +7,16 @@
 - 🌐 I'm currently developping the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01) and [tib500](https://github.com/tib500)
 
 ### Languages and tools:
-
-<img align="left" alt="Python" height="26px" src="https://ci-ia.groupecerco.com/web/image/23586/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" height="26px" src="https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" />
-<img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Atom" height="26px" src="https://github.com/atom.png" />
-<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<a href="">
+  <img align="left" alt="Python" height="26px" src="https://ci-ia.groupecerco.com/web/image/23586/1200px-Python-logo-notext.svg.png" />
+  <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="PHP" height="26px" src="https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" />
+  <img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="Atom" height="26px" src="https://github.com/atom.png" />
+  <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</a>
 <br />
 <br />
 
