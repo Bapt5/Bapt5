@@ -1,11 +1,10 @@
 ### Hi there, I'm Baptiste - [Bapt](https://github.com/Bapt5) 👋
 ## I'm French 🇫🇷
 
-## I am a high school📚 who codes in their spare time💻
+## I am in high school📚 and Developper in my spare time💻
 - 👨‍💻 I’m currently working on `Python`!
 - 🔍 I’m currently learning `PHP`
-
-[Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog)
+- 🌐 I'm currently developping the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01)
 
 ### Languages and tools:
 
