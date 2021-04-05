@@ -2,8 +2,8 @@
 ## I'm French 🇫🇷
 
 ## I'm in high school📚 and Developper in my spare time💻
-- 👨‍💻 I’m currently working on `Python`!
-- 🔍 I’m currently learning `PHP`
+- 👨‍💻 I’m currently working on `Python` and `JS/JQuery`!
+- 🔍 I’m currently learning `PHP` and `SQL`
 - 🌐 I'm currently developping the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01) and [tib500](https://github.com/tib500)
 
 ### Languages and tools:
