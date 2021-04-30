@@ -9,7 +9,7 @@
 
 ### Languages and tools:
 <a href="https://github.com/Bapt5">
-  <img align="left" alt="Python" height="26px" src="https://ci-ia.groupecerco.com/web/image/23586/1200px-Python-logo-notext.svg.png" />
+  <img align="left" alt="Python" height="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
   <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
