@@ -1,7 +1,7 @@
 # Hi there, I'm Baptiste - [Bapt5](https://github.com/Bapt5) 👋
 ## I'm French 🇫🇷
 
-## I'm in high school📚 and Developper in my spare time💻
+## I'm in high school📚 and Developer in my spare time💻
 - 👨‍💻 I’m currently working on `Python` and `JS/JQuery`!
 - 🔍 I'm currently improving my code in `PHP` and `SQL`
 - 🎮 I have already used `C#` with Unity3D, `C++` and `C` with Arduino
