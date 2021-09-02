@@ -18,7 +18,10 @@
   <img align="left" alt="Atom" height="26px" src="https://github.com/atom.png" />
   <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Unity3D" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" />
-  <img align="left" alt="GitHub" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" />
+  <img align="left" alt="flask" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" />
+  <img align="left" alt="mongoDB" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" />
+  <img align="left" alt="Linux" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" />
+  <img align="left" alt="Batch Files" height="26px" src="https://image.flaticon.com/icons/png/512/28/28788.png" />
 </a>
 <br />
 <br />
