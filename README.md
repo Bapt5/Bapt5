@@ -3,14 +3,15 @@
 
 ## I'm in high school📚 and Developer in my spare time💻
 - 👨‍💻 I’m currently working on `Python` and `JS/JQuery`!
-- 🔍 I'm currently improving my code in `PHP` and `SQL`
+- 🔍 I'm currently improving my code in `C`, `PHP` and `SQL`
 - 🎮 I have already used `C#` with Unity3D, `C++` and `C` with Arduino
 - 🌐 I'm currently developping the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01) and [tib500](https://github.com/tib500)
-- 🌐I'm the CEO of [Key4School](https://key4school.com/) and I'm developping it with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" /> 
+- 🌐I'm the CEO of [Key4School](https://key4school.com/) and I'm developping it with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" />
 
 ### Languages and tools:
 <a href="https://github.com/Bapt5">
   <img align="left" alt="Python" height="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
+  <img align="left" alt="C" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
   <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
