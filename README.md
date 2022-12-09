@@ -9,10 +9,10 @@
 - 🌐 I developped [Key4School](https://key4school.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" />
 
 ## My Skills:
-  [![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cs,css,flask,html,js,mongodb,mysql,ocaml,php,postgres,py,raspberrypi,regex,selenium,unity&theme=dark)]()
+  [![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cs,css,flask,html,js,mongodb,mysql,ocaml,php,postgres,py,raspberrypi,regex,selenium,unity&theme=dark)](https://github.com/Bapt5)
 
 ## My Tools:
-  [![My Tools](https://skillicons.dev/icons?i=atom,github,heroku,netlify,stackoverflow,vscode&theme=dark)]()
+  [![My Tools](https://skillicons.dev/icons?i=atom,github,heroku,netlify,stackoverflow,vscode&theme=dark)](https://github.com/Bapt5)
 
 ---
 
