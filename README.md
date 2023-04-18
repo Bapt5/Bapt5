@@ -2,10 +2,9 @@
 ## I'm French 🇫🇷
 
 ## I'm a student📚 and Developer in my spare time💻
-- 👨‍💻 I’m currently working on `Python` and `JS/JQuery`!
-- 🔍 I'm currently improving my code in `C`, `PHP` and `SQL`
-- 🎮 I have already used `C#` with Unity3D, `C++` and `C` with Arduino
-- 🌐 I'm developped the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01) and [tib500](https://github.com/tib500)
+- 🧑‍🎓 I'm currently studying in CPGE where I use `C` and `OCaml`
+- 💻 I actively contribute to [pronotepy](https://github.com/bain3/pronotepy)
+- 🌐 I developped the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Mflavien01](https://github.com/Mflavien01) and [tib500](https://github.com/tib500)
 - 🌐 I developped [Key4School](https://key4school.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" />
 
 ## My Skills:
